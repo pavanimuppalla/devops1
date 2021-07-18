@@ -1,8 +1,10 @@
+
 git config --list
 git config --global alias.cl "config --list"
 git cl
-
 git commit -m "Test commit"
 git config --global alias.cm "commit -m "Test commit""
 git cm
 
+hello, all
+test data from venky 
